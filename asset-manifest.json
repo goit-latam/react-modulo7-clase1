@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-modulo7-clase1/static/css/main.5763847e.css",
+    "main.js": "/react-modulo7-clase1/static/js/main.9feb1860.js",
+    "index.html": "/react-modulo7-clase1/index.html",
+    "main.5763847e.css.map": "/react-modulo7-clase1/static/css/main.5763847e.css.map",
+    "main.9feb1860.js.map": "/react-modulo7-clase1/static/js/main.9feb1860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5763847e.css",
+    "static/js/main.9feb1860.js"
+  ]
+}
